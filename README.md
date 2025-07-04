@@ -48,8 +48,7 @@ A simple e-commerce application built with PHP and MySQL, featuring:
 | Role    | Username | Password  |
 |---------|----------|-----------|
 | Customer| Alice    | test123  |
-| Admin
-| Bob      | test123    |
+| Admin | Bob      | test123    |
 
 ## Project Structure
 
